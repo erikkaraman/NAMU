@@ -1,4 +1,4 @@
-# NAMU
+# NAMU Museum
 [DEMO LINK](https://erikkaraman.github.io/NAMU/)
 
 [MOCKUP](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1&t=Cl6fCDsaNu6a8h2k-0)
